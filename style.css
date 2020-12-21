@@ -1,0 +1,42 @@
+/* .col-centered {
+  float: none;
+  margin: 0 auto;
+} */
+/* .select-center {
+  margin-left: 60px;
+} */
+
+.col-12 label h1{
+
+   color: white;
+} 
+
+.table thead tr{
+
+     background-color: pink;
+}
+
+.table thead tr th{
+
+     color: black;
+}
+
+.row button{
+
+      background-color: pink;
+}
+.container-1{
+
+ background-color: grey;
+}
+
+.col-md-12 h2{
+
+     background-color:pink;
+     color: black;
+     text-align: center;
+}
+.row .btn{
+
+      color: black;
+}
